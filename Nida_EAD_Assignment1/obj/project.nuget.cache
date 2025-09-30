@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+l3Ibwt5cD2wic8eImYswXngnyCuN/HX/duAmHoKXKN3DU0U/C/XUUu0M0rO6Oaq9hqe9+F1mc27X6tjtkMFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\World\\Desktop\\Movies_FullStack\\Nida_EAD_Assignment1\\Nida_EAD_Assignment1\\Nida_EAD_Assignment1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\World\\.nuget\\packages\\nida_library_assignment1\\1.0.0\\nida_library_assignment1.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\bin\Debug\net8.0\Nida_Library_Assignment1.deps.json
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\bin\Debug\net8.0\Nida_Library_Assignment1.dll
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\bin\Debug\net8.0\Nida_Library_Assignment1.pdb
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\Nida_Library_Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\Nida_Library_Assignment1.AssemblyInfoInputs.cache
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\Nida_Library_Assignment1.AssemblyInfo.cs
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\Nida_Library_Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\Nida_Library_Assignment1.dll
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\refint\Nida_Library_Assignment1.dll
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\Nida_Library_Assignment1.pdb
+C:\Users\World\Desktop\Movies_FullStack\Nida_EAD_Assignment1\Nida_Library_Assignment1\obj\Debug\net8.0\ref\Nida_Library_Assignment1.dll
